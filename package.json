@@ -1,5 +1,5 @@
 {
-    "name": "mailparser",
+    "name": "mailparse",
     "version": "2.7.1",
     "description": "Parse e-mails",
     "keywords": [
